@@ -14,10 +14,10 @@
           "version": "0.1.0",
           "architecture": "rp2040",
           "category": "Contributed",
-          "url": "https://github.com/InterstitialTech/quadrant_arduino/releases/download/0.0.1/quadrant_0.1.0.zip",
+          "url": "https://github.com/InterstitialTech/quadrant-arduino/releases/download/v0.1.0/quadrant-0.1.0.zip",
           "archiveFileName": "quadrant-0.1.0.zip",
-          "size": "TODO",
-          "checksum": "SHA-256:TODO",
+          "size": "5166",
+          "checksum": "SHA-256:92909a1546564df807608c963c1bc8678b82154f66ae067ef0f0bdc13ad82f13",
           "help": {
             "online": "https://interstitial.coop/quadrant"
           },
